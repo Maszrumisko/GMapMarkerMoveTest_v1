@@ -1,0 +1,13 @@
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\bin\Debug\GMapMarkerMoveTest_v1.exe.config
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\bin\Debug\GMapMarkerMoveTest_v1.exe
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\bin\Debug\GMapMarkerMoveTest_v1.pdb
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\bin\Debug\GMap.NET.Core.dll
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.csprojAssemblyReference.cache
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.Form1.resources
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.Properties.Resources.resources
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.csproj.GenerateResource.cache
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.csproj.CoreCompileInputs.cache
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.csproj.CopyComplete
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.exe
+C:\Users\ABożko\source\repos\GMapMarkerMoveTest_v1\obj\Debug\GMapMarkerMoveTest_v1.pdb
